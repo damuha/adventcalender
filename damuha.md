@@ -218,7 +218,7 @@ https://blog.sisterwith.com/
 
 ![](https://storage.googleapis.com/zenn-user-upload/de731d49f9fb492223baccc5.png)
 
-## （おまけ）作ってみた私の感想
+## （おまけ）作ってみた私の感想!!
 自分の好きなようにフルカスタマイズできるので、めちゃくちゃNext.jsの勉強にもなるんじゃないかな〜とカスタマイズしてて思いました！！私は、Next.jsは初めて触ったのですが、基礎的な部分の
 ・APIでデータ取得してくる
 ・ルーティング
